@@ -21,4 +21,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me **wwhontheway@gmail.com**
 
 - 📄 Know about my blog [https://blog.winterio.com.cn/](https://blog.winterio.com.cn/)
-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=winterfx&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=winterfx&theme=solarized_dark)
+![](https://raw.githubusercontent.com/winterfx/winterfx/master/profile-summary-card-output/solarized/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/winterfx/winterfx/master/profile-summary-card-output/solarized/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/winterfx/winterfx/master/profile-summary-card-output/solarized/3-stats.svg)
+![](https://raw.githubusercontent.com/winterfx/winterfx/master/profile-summary-card-output/solarized/4-productive-time.svg)
