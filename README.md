@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi There 👋</h1>
 
-- 🌱 I’m currently learning Golang,TypeScript
-
 - 📫 How to reach me **wwhontheway@gmail.com**
 
 - 📄 Know about my blog [https://winterio.com.cn/](https://winterio.com.cn/)
