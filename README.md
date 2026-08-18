@@ -21,3 +21,12 @@ Here are some ideas to get you started:
 - 📄 Know about my blog [https://winterio.com.cn/](https://winterio.com.cn/)
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=winterfx&theme=solarized_dark)
+
+
+<a href="https://www.gitascii.com">
+  <img
+    src="https://www.gitascii.com/api/winterfx?v=1787045396798"
+    alt="GitAscii Widget"
+    width="100%"
+  />
+</a>
