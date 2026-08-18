@@ -11554,23 +11554,6 @@
       "zIndex": 4,
       "instanceId": "widget_1787045331858_3",
       "name": "Languages Widget"
-    },
-    {
-      "instanceId": "widget_1787045711408",
-      "widgetId": "contribution-snake",
-      "name": "Contribution-snake Widget",
-      "position": {
-        "x": 0,
-        "y": 550
-      },
-      "size": {
-        "width": 800,
-        "height": 250
-      },
-      "config": {},
-      "locked": false,
-      "visible": true,
-      "zIndex": 6
     }
   ],
   "globalStyles": {
