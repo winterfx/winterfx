@@ -11556,40 +11556,21 @@
       "name": "Languages Widget"
     },
     {
-      "widgetId": "repositories",
+      "instanceId": "widget_1787045711408",
+      "widgetId": "contribution-snake",
+      "name": "Contribution-snake Widget",
       "position": {
         "x": 0,
-        "y": 558
+        "y": 550
       },
       "size": {
         "width": 800,
-        "height": 256
-      },
-      "config": {
-        "repoCardHeight": 52
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 5,
-      "instanceId": "widget_1787045331858_4",
-      "name": "Repositories Widget"
-    },
-    {
-      "widgetId": "footer",
-      "position": {
-        "x": 0,
-        "y": 874
-      },
-      "size": {
-        "width": 800,
-        "height": 50
+        "height": 250
       },
       "config": {},
       "locked": false,
       "visible": true,
-      "zIndex": 6,
-      "instanceId": "widget_1787045331858_5",
-      "name": "Footer Widget"
+      "zIndex": 6
     }
   ],
   "globalStyles": {
